@@ -5,12 +5,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <RootNamespace>App_DotnetExample</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <AssemblyVersion>1.2.0</AssemblyVersion>
+    <AssemblyVersion>2.0.1</AssemblyVersion>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="LoggingComponent" Version="1.0.4" />
+    <PackageReference Include="LoggingComponent" Version="1.0.5" />
   </ItemGroup>
 
 </Project>
