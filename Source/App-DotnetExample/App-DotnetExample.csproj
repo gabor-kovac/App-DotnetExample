@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="LoggingComponent" Version="1.0.4" />
+    <PackageReference Include="LoggingComponent" Version="1.0.5" />
   </ItemGroup>
 
 </Project>
